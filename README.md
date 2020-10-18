@@ -11,7 +11,7 @@
 
 Структура сайта:
 
-+ Главная страница: [**https://sergeev-vn.github.io/drive-moto/**](https://sergeev-vn.github.io/drive-moto/)
++ Главная страница: [**https://bakaydev.github.io/drive-moto/**](https://bakaydev.github.io/drive-moto/)
 <p align='center'>
 <img src='http://lessons.sergeev.press/drive-moto-main.png' width='100%'>
 </p>
